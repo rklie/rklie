@@ -2,9 +2,9 @@
 
 ### I'm a Data Analyst for the Enterprise & Core Metrics team @ GitHub.
 
-- 👨🏻‍💻 I'm currently focused on applying fresh knowledge about ADX (Kusto), Airflow Data Pipelines & Power BI M-queries. 
-- 🎮 Veteran and Zelda fan - Proud father of 1 👧🏼
-- 💪🏻 At the moment I'm learning more about Data Engineering, Data Modeling and AI/ML technologies. 
+- 🚀 Currently, I'm diving deep into the world of ADX (Kusto), mastering Airflow Data Pipelines, and exploring the intricacies of Power BI M-queries.
+- 🎮 Self-appointed veteran gamer and an avid fan of Zelda - Also a proud parent to a wonderful daughter 👧🏼
+- 👨🏻‍💻 I'm on a journey to expand my skills in Data Engineering, Data Modeling, and cutting-edge AI/ML technologies.
 
 ❗️ Some details about the languages and platforms I'm currently using:
 

@@ -12,7 +12,6 @@
 flowchart TD
     A(Data Analysis) --> D(SQL) & E(Python) & F(KQL) & G(M Query)
     B(Data Engineering) --> D & E & H(YAML)
-    C(Data Science) --> E & F
     D & E & G --> I(Power BI)
     D & E & F --> J(Airflow)
     D & F --> K(Azure Data Stack)

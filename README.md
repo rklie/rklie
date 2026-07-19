@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm [Rafa!](https://github.com/rklie)
 
-### I'm a Data Engineer for the Enterprise & Core Metrics team @ GitHub.
+### I'm a Data Analytics Engineer for the Data organization @ GitHub.
 
 - 🚀 Currently, I'm diving deep into the world of ADX (Kusto), mastering Airflow, and exploring anything and everything about data modeling and orchestration.
 - 🎮 Self-appointed veteran gamer and an avid fan of Zelda - Also a proud parent to two wonderful daughters 👧🏼👧🏼

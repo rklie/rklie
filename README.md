@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Rafa!](https://github.com/rklie)
+## Hi there! 👋 I'm [Rafa!](https://www.linkedin.com/in/rafael-klie)
 
 ### I'm a Data Analytics Engineer for the Data organization @ GitHub.
 
